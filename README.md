@@ -2,6 +2,8 @@
  Personal Project
  
  Loading System
+  - Finish Loading will scence change to main Scene (Gameplay)
+  
 ![LoadingSystem](https://user-images.githubusercontent.com/43956936/70350090-56c98680-1866-11ea-9c71-05b54dac4bfd.PNG)
 
 
@@ -23,4 +25,5 @@ Unity Project - Survival System
 TODO:
 - Implementing Fireplace when trigger collider, Temperature heats up
 - Interact with objects with animations playing
+
 ![Survival System](https://user-images.githubusercontent.com/43956936/70350091-56c98680-1866-11ea-80dc-6192d7772fb8.PNG)
